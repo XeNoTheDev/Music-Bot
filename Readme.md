@@ -9,4 +9,4 @@ Click Run
 Your done! Enjoy your bot!
 
 This Bot was made by XeNo#2379
-U can use this on VSC Ot Replit.
+
